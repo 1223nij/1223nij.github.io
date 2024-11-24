@@ -8,7 +8,7 @@
 <body>
     <h1>Download Book Share!</h1>
     <h2>Click here to download... FOR FREE!</h2>
-    <form method="get" action="https://dulichphutho.io.vn/BookShare.apk">
+    <form method="get" action="https://bookshare.io.vn/BookShare.apk">
         <button type="submit">Download! (BookShare.apk)</button>
      </form>
 </body>
